@@ -1,0 +1,56 @@
+name: Update README with Dev Notes Index
+
+on:
+  issue_comment:
+    types: [created]
+  issues:
+    types: [opened, edited]
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    # Only run if the issue title starts with "Day" (day-wise journal entries) or manually triggered
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, 'Day ')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update README
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: npm run update-readme
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin main
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Update README with latest dev notes index"
+            git push -f
+          else
+            echo "No changes to commit"
+          fi

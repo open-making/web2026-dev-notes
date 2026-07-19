@@ -1,0 +1,14 @@
+{
+  "name": "web2026-dev-notes-updater",
+  "version": "1.0.0",
+  "description": "Script to update README",
+  "main": "update-readme.js",
+  "scripts": {
+    "update-readme": "node update-readme.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "dotenv": "^16.3.1",
+    "simple-ascii-chart": "^5.3.0"
+  }
+}
