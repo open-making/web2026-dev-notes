@@ -62,6 +62,7 @@ async function updateReadme() {
             commentCount: comments.length,
             createdAt: new Date(issue.created_at),
             commentTimes: comments.map(c => new Date(c.created_at)),
+            commentWordCounts: comments.map(c => c.body.split(/\s+/).filter(Boolean).length),
             sentiment: sentimentScore
           };
         })
@@ -139,6 +140,13 @@ Graphing the time when notes have been added. ${generateNightOwlChart(entries)}
 Notes are positive, negative, or neutral?
 
 ${generateSentimentChart(entries)}
+
+## How long are our notes?
+
+Distribution of dev-note lengths across the cohort.
+
+${generateNoteLengthChart(entries)}
+
 ---
 
 <span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on ${istTime.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })} at ${istTime.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true })} IST</span>
@@ -257,6 +265,37 @@ function generateSentimentChart(entries) {
   });
 
   return `\`\`\`\n😊 Positive\n${asciiChart}\n😕 Negative\n\`\`\`\n`;
+}
+
+function generateNoteLengthChart(entries) {
+  const wordCounts = entries.flatMap(e => e.commentWordCounts);
+  if (!wordCounts.length) return '```\n🤐 No notes yet! Be the first to write one.\n```';
+
+  // Bucket note lengths — no names, just the cohort's writing shape
+  const buckets = [
+    { label: '🤏 < 50    ', min: 0, max: 49 },
+    { label: '📝 50-149  ', min: 50, max: 149 },
+    { label: '📄 150-299 ', min: 150, max: 299 },
+    { label: '📚 300-499 ', min: 300, max: 499 },
+    { label: '🗣️ 500+    ', min: 500, max: Infinity }
+  ].map(b => ({
+    ...b,
+    count: wordCounts.filter(w => w >= b.min && w <= b.max).length
+  }));
+
+  const maxCount = Math.max(...buckets.map(b => b.count));
+  const chart = buckets.map(b => {
+    const barLength = Math.round((b.count / maxCount) * 20);
+    const bar = '▓'.repeat(barLength) + '░'.repeat(20 - barLength);
+    const percentage = Math.round((b.count / wordCounts.length) * 100);
+    return `${b.label} │${bar}│ ${b.count.toString().padStart(2)} (${percentage}%)`;
+  }).join('\n');
+
+  const totalWords = wordCounts.reduce((sum, w) => sum + w, 0);
+  const avg = Math.round(totalWords / wordCounts.length);
+  const longest = Math.max(...wordCounts);
+
+  return `\`\`\`\n${chart}\n\`\`\`\n✍️ ${totalWords.toLocaleString('en-US')} words written so far • avg ${avg} words/note • longest: ${longest} words`;
 }
 
 function findPreviousDataPoint(sentimentMap, day) {
