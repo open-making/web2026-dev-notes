@@ -11,7 +11,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day | Title | Notes |
 |-----|-------|-------|
 | Day 1 (Jul 19) | [The Small Web](https://github.com/open-making/web2026-dev-notes/issues/2) | 7 |
-| Day 2 (Jul 21) | [HTML, CSS and Commitment](https://github.com/open-making/web2026-dev-notes/issues/3) | 2 |
+| Day 2 (Jul 21) | [HTML, CSS and Commitment](https://github.com/open-making/web2026-dev-notes/issues/3) | 3 |
 
 
 ## Distribution of night owls
@@ -21,10 +21,10 @@ Graphing the time when notes have been added. ✅ Good sleep scenes, not many la
 ```
 🌙 00-05 │░░░░░░░░░░░░░░░░░░░░│  0 (0%)
 🌅 06-11 │░░░░░░░░░░░░░░░░░░░░│  0 (0%)
-☀️ 12-17 │▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░│  3 (33%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│  6 (67%)
+☀️ 12-17 │▓▓▓▓▓▓▓▓▓░░░░░░░░░░░│  3 (30%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│  7 (70%)
 ```
-📊 9 total comments • Peak: 18-23
+📊 10 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -53,14 +53,14 @@ Notes are positive, negative, or neutral?
 Distribution of dev-note lengths across the cohort.
 
 ```
-🤏 < 50     │▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░│  2 (22%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│  3 (33%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│  3 (33%)
-📚 300-499  │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  1 (11%)
+🤏 < 50     │▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░│  2 (20%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│  4 (40%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░│  3 (30%)
+📚 300-499  │▓▓▓▓▓░░░░░░░░░░░░░░░│  1 (10%)
 🗣️ 500+     │░░░░░░░░░░░░░░░░░░░░│  0 (0%)
 ```
-✍️ 1,518 words written so far • avg 169 words/note • longest: 389 words
+✍️ 1,589 words written so far • avg 159 words/note • longest: 389 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 21, 2026 at 09:30 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 21, 2026 at 09:37 PM IST</span>
