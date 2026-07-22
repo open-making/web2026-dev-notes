@@ -12,6 +12,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 |-----|-------|-------|
 | Day 1 (Jul 19) | [The Small Web](https://github.com/open-making/web2026-dev-notes/issues/2) | 7 |
 | Day 2 (Jul 21) | [HTML, CSS and Commitment](https://github.com/open-making/web2026-dev-notes/issues/3) | 7 |
+| Day 3 (Jul 22) | [What a flex ya](https://github.com/open-making/web2026-dev-notes/issues/4) | 0 |
 
 
 ## Distribution of night owls
@@ -33,13 +34,13 @@ Notes are positive, negative, or neutral?
 ```
 😊 Positive
 
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
-                                                           ┃  
-                                                           ┃  
-                                                           ┃  
-                                                           ┗━ 
-┬──────────────────────────────────────────────────────────┬─▶
-1                                                          2  
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓                               
+                              ┃                               
+                              ┃                               
+                              ┃                               
+                              ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+┬─────────────────────────────┬────────────────────────────┬─▶
+1                             2                            3  
                               Day                              
 
 😕 Negative
@@ -61,4 +62,4 @@ Distribution of dev-note lengths across the cohort.
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 21, 2026 at 10:02 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 22, 2026 at 02:47 PM IST</span>
