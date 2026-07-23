@@ -13,7 +13,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 1 (Jul 19) | [The Small Web](https://github.com/open-making/web2026-dev-notes/issues/2) | 7 |
 | Day 2 (Jul 21) | [HTML, CSS and Commitment](https://github.com/open-making/web2026-dev-notes/issues/3) | 7 |
 | Day 3 (Jul 22) | [What a flex ya](https://github.com/open-making/web2026-dev-notes/issues/4) | 6 |
-| Day 4 (Jul 23) | [Fitting to print](https://github.com/open-making/web2026-dev-notes/issues/6) | 0 |
+| Day 4 (Jul 23) | [Fitting to print](https://github.com/open-making/web2026-dev-notes/issues/6) | 1 |
 
 
 ## Distribution of night owls
@@ -23,10 +23,10 @@ Graphing the time when notes have been added. ✅ Good sleep scenes, not many la
 ```
 🌙 00-05 │░░░░░░░░░░░░░░░░░░░░│  0 (0%)
 🌅 06-11 │░░░░░░░░░░░░░░░░░░░░│  0 (0%)
-☀️ 12-17 │▓▓▓▓░░░░░░░░░░░░░░░░│  3 (15%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 17 (85%)
+☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  3 (14%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 18 (86%)
 ```
-📊 20 total comments • Peak: 18-23
+📊 21 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -37,8 +37,8 @@ Notes are positive, negative, or neutral?
 
  ━━━━━━━━━━━━━━━━━━━┓                                         
                     ┃                                         
-                    ┃                                         
-                    ┃                  ┏━━━━━━━━━━━━━━━━━━━━━ 
+                    ┃                                      ┏━ 
+                    ┃                  ┏━━━━━━━━━━━━━━━━━━━┛  
                     ┗━━━━━━━━━━━━━━━━━━┛                      
 ┬───────────────────┬──────────────────┬───────────────────┬─▶
 1                   2                  3                   4  
@@ -54,13 +54,13 @@ Distribution of dev-note lengths across the cohort.
 
 ```
 🤏 < 50     │▓▓▓▓░░░░░░░░░░░░░░░░│  2 (10%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░│  6 (30%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│  9 (45%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░│  6 (29%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 10 (48%)
 📚 300-499  │▓▓░░░░░░░░░░░░░░░░░░│  1 (5%)
 🗣️ 500+     │▓▓▓▓░░░░░░░░░░░░░░░░│  2 (10%)
 ```
-✍️ 4,074 words written so far • avg 204 words/note • longest: 539 words
+✍️ 4,286 words written so far • avg 204 words/note • longest: 539 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 23, 2026 at 07:41 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 23, 2026 at 11:39 PM IST</span>
