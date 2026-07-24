@@ -14,7 +14,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 2 (Jul 21) | [HTML, CSS and Commitment](https://github.com/open-making/web2026-dev-notes/issues/3) | 7 |
 | Day 3 (Jul 22) | [What a flex ya](https://github.com/open-making/web2026-dev-notes/issues/4) | 6 |
 | Day 4 (Jul 23) | [Fitting to print](https://github.com/open-making/web2026-dev-notes/issues/6) | 6 |
-| Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 0 |
+| Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 1 |
 
 
 ## Distribution of night owls
@@ -24,10 +24,10 @@ Graphing the time when notes have been added. ✅ Good sleep scenes, not many la
 ```
 🌙 00-05 │▓▓▓▓░░░░░░░░░░░░░░░░│  4 (15%)
 🌅 06-11 │▓░░░░░░░░░░░░░░░░░░░│  1 (4%)
-☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  3 (12%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 18 (69%)
+☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  3 (11%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 19 (70%)
 ```
-📊 26 total comments • Peak: 18-23
+📊 27 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -36,11 +36,13 @@ Notes are positive, negative, or neutral?
 ```
 😊 Positive
 
- ━━━━━━━━━━━━━━┓                                              
-               ┃                                              
-               ┃                                              
-               ┃              ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
-               ┗━━━━━━━━━━━━━━┛                               
+                                                           ┏━ 
+                                                           ┃  
+                                                           ┃  
+                                                           ┃  
+ ━━━━━━━━━━━━━━┓                                           ┃  
+               ┃                            ┏━━━━━━━━━━━━━━┛  
+               ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                 
 ┬──────────────┬──────────────┬─────────────┬──────────────┬─▶
 1              2              3             4              5  
                               Day                              
@@ -54,14 +56,14 @@ Notes are positive, negative, or neutral?
 Distribution of dev-note lengths across the cohort.
 
 ```
-🤏 < 50     │▓▓▓▓▓░░░░░░░░░░░░░░░│  3 (12%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░│  7 (27%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 12 (46%)
+🤏 < 50     │▓▓▓▓▓░░░░░░░░░░░░░░░│  3 (11%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░│  7 (26%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 13 (48%)
 📚 300-499  │▓▓░░░░░░░░░░░░░░░░░░│  1 (4%)
-🗣️ 500+     │▓▓▓▓▓░░░░░░░░░░░░░░░│  3 (12%)
+🗣️ 500+     │▓▓▓▓▓░░░░░░░░░░░░░░░│  3 (11%)
 ```
-✍️ 5,653 words written so far • avg 217 words/note • longest: 732 words
+✍️ 5,911 words written so far • avg 219 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 24, 2026 at 04:59 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 24, 2026 at 08:28 PM IST</span>
