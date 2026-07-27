@@ -15,7 +15,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 3 (Jul 22) | [What a flex ya](https://github.com/open-making/web2026-dev-notes/issues/4) | 6 |
 | Day 4 (Jul 23) | [Fitting to print](https://github.com/open-making/web2026-dev-notes/issues/6) | 6 |
 | Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 6 |
-| Day 6 (Jul 27) | [Clocking it 😌🤏🤏🤏](https://github.com/open-making/web2026-dev-notes/issues/8) | 3 |
+| Day 6 (Jul 27) | [Clocking it 😌🤏🤏🤏](https://github.com/open-making/web2026-dev-notes/issues/8) | 4 |
 
 
 ## Distribution of night owls
@@ -23,12 +23,12 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 Graphing the time when notes have been added. ✅ Good sleep scenes, not many late night posts!
 
 ```
-🌙 00-05 │▓▓▓▓▓░░░░░░░░░░░░░░░│  6 (17%)
+🌙 00-05 │▓▓▓▓▓▓░░░░░░░░░░░░░░│  7 (19%)
 🌅 06-11 │▓░░░░░░░░░░░░░░░░░░░│  1 (3%)
 ☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  4 (11%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (69%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (67%)
 ```
-📊 35 total comments • Peak: 18-23
+📊 36 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -57,13 +57,13 @@ Distribution of dev-note lengths across the cohort.
 
 ```
 🤏 < 50     │▓▓▓▓▓░░░░░░░░░░░░░░░│  4 (11%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░│  9 (26%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 16 (46%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░│  9 (25%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 16 (44%)
 📚 300-499  │▓▓▓░░░░░░░░░░░░░░░░░│  2 (6%)
-🗣️ 500+     │▓▓▓▓▓░░░░░░░░░░░░░░░│  4 (11%)
+🗣️ 500+     │▓▓▓▓▓▓░░░░░░░░░░░░░░│  5 (14%)
 ```
-✍️ 7,731 words written so far • avg 221 words/note • longest: 732 words
+✍️ 8,343 words written so far • avg 232 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 27, 2026 at 09:30 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 28, 2026 at 12:14 AM IST</span>
