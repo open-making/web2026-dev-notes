@@ -17,20 +17,20 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 7 |
 | Day 6 (Jul 27) | [Clocking it 😌🤏🤏🤏](https://github.com/open-making/web2026-dev-notes/issues/8) | 6 |
 | Day 7 (Jul 28) | [A room of one's own](https://github.com/open-making/web2026-dev-notes/issues/9) | 7 |
-| Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 4 |
+| Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 5 |
 
 
 ## Distribution of night owls
 
-Graphing the time when notes have been added. ⚠️ Some night owls detected. More sleep please!
+Graphing the time when notes have been added. 😴 Consider getting more sleep! Too many late night posts.
 
 ```
-🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░│ 20 (40%)
+🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░│ 21 (41%)
 🌅 06-11 │▓▓░░░░░░░░░░░░░░░░░░│  2 (4%)
 ☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  4 (8%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (48%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (47%)
 ```
-📊 50 total comments • Peak: 18-23
+📊 51 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -62,13 +62,13 @@ Distribution of dev-note lengths across the cohort.
 
 ```
 🤏 < 50     │▓▓▓▓▓▓░░░░░░░░░░░░░░│  5 (10%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░│ 14 (28%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 18 (36%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░│ 15 (29%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 18 (35%)
 📚 300-499  │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  6 (12%)
 🗣️ 500+     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  7 (14%)
 ```
-✍️ 12,054 words written so far • avg 241 words/note • longest: 732 words
+✍️ 12,147 words written so far • avg 238 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 30, 2026 at 03:22 AM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 30, 2026 at 04:21 AM IST</span>
