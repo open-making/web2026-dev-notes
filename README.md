@@ -14,7 +14,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 2 (Jul 21) | [HTML, CSS and Commitment](https://github.com/open-making/web2026-dev-notes/issues/3) | 7 |
 | Day 3 (Jul 22) | [What a flex ya](https://github.com/open-making/web2026-dev-notes/issues/4) | 6 |
 | Day 4 (Jul 23) | [Fitting to print](https://github.com/open-making/web2026-dev-notes/issues/6) | 6 |
-| Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 6 |
+| Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 7 |
 | Day 6 (Jul 27) | [Clocking it 😌🤏🤏🤏](https://github.com/open-making/web2026-dev-notes/issues/8) | 6 |
 | Day 7 (Jul 28) | [A room of one's own](https://github.com/open-making/web2026-dev-notes/issues/9) | 6 |
 | Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 4 |
@@ -25,12 +25,12 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 Graphing the time when notes have been added. ⚠️ Some night owls detected. More sleep please!
 
 ```
-🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░│ 18 (38%)
+🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░│ 19 (39%)
 🌅 06-11 │▓▓░░░░░░░░░░░░░░░░░░│  2 (4%)
 ☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  4 (8%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (50%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (49%)
 ```
-📊 48 total comments • Peak: 18-23
+📊 49 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -62,13 +62,13 @@ Distribution of dev-note lengths across the cohort.
 
 ```
 🤏 < 50     │▓▓▓▓▓▓░░░░░░░░░░░░░░│  5 (10%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░│ 13 (27%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░│ 14 (29%)
 📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 17 (35%)
-📚 300-499  │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  6 (13%)
-🗣️ 500+     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  7 (15%)
+📚 300-499  │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  6 (12%)
+🗣️ 500+     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  7 (14%)
 ```
-✍️ 11,789 words written so far • avg 246 words/note • longest: 732 words
+✍️ 11,841 words written so far • avg 242 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 30, 2026 at 03:15 AM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 30, 2026 at 03:17 AM IST</span>
