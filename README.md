@@ -17,7 +17,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 6 |
 | Day 6 (Jul 27) | [Clocking it 😌🤏🤏🤏](https://github.com/open-making/web2026-dev-notes/issues/8) | 6 |
 | Day 7 (Jul 28) | [A room of one's own](https://github.com/open-making/web2026-dev-notes/issues/9) | 6 |
-| Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 0 |
+| Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 1 |
 
 
 ## Distribution of night owls
@@ -25,12 +25,12 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 Graphing the time when notes have been added. ⚠️ Some night owls detected. More sleep please!
 
 ```
-🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░│ 14 (32%)
-🌅 06-11 │▓▓░░░░░░░░░░░░░░░░░░│  2 (5%)
+🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░│ 15 (33%)
+🌅 06-11 │▓▓░░░░░░░░░░░░░░░░░░│  2 (4%)
 ☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  4 (9%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (55%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (53%)
 ```
-📊 44 total comments • Peak: 18-23
+📊 45 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -42,12 +42,12 @@ Notes are positive, negative, or neutral?
                                   ┏━━━━━━━┓                   
         ┏━━━━━━━━┓                ┃       ┃                   
         ┃        ┗━━━━━━━┓        ┃       ┗━━━━━━━━┓          
- ━━━━━━━┛                ┃        ┃                ┃          
-                         ┃        ┃                ┃          
-                         ┗━━━━━━━━┛                ┃          
-                                                   ┃          
-                                                   ┃          
-                                                   ┗━━━━━━━━━ 
+ ━━━━━━━┛                ┃        ┃                ┃       ┏━ 
+                         ┃        ┃                ┃       ┃  
+                         ┗━━━━━━━━┛                ┃       ┃  
+                                                   ┃       ┃  
+                                                   ┃       ┃  
+                                                   ┗━━━━━━━┛  
 ┬───────┬────────┬───────┬────────┬───────┬────────┬───────┬─▶
 1       2        3       4        5       6        7       8  
                               Day                              
@@ -62,13 +62,13 @@ Distribution of dev-note lengths across the cohort.
 
 ```
 🤏 < 50     │▓▓▓▓▓▓░░░░░░░░░░░░░░│  5 (11%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░│ 10 (23%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 17 (39%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░│ 11 (24%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 17 (38%)
 📚 300-499  │▓▓▓▓▓▓░░░░░░░░░░░░░░│  5 (11%)
 🗣️ 500+     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  7 (16%)
 ```
-✍️ 11,031 words written so far • avg 251 words/note • longest: 732 words
+✍️ 11,104 words written so far • avg 247 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 29, 2026 at 06:29 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 30, 2026 at 12:53 AM IST</span>
