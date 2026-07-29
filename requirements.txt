@@ -1,4 +1,6 @@
-# sentiment.py only needs TextBlob (pulls in nltk, regex, etc. as deps).
-# numpy/scipy/scikit-learn were unused and broke CI on new Python versions
-# by forcing a from-source scipy build (needs OpenBLAS). Removed.
-textblob==0.19.0
+# sentiment.py uses a HuggingFace transformer on CPU.
+# torch is installed from the CPU wheel index in the workflow
+# (--extra-index-url https://download.pytorch.org/whl/cpu) to avoid
+# pulling the multi-GB CUDA build in CI.
+transformers==4.53.2
+torch==2.7.1
