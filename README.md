@@ -17,20 +17,20 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 5 (Jul 24) | [Making the most of it](https://github.com/open-making/web2026-dev-notes/issues/7) | 7 |
 | Day 6 (Jul 27) | [Clocking it 😌🤏🤏🤏](https://github.com/open-making/web2026-dev-notes/issues/8) | 6 |
 | Day 7 (Jul 28) | [A room of one's own](https://github.com/open-making/web2026-dev-notes/issues/9) | 7 |
-| Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 5 |
+| Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 6 |
 
 
 ## Distribution of night owls
 
-Graphing the time when notes have been added. 😴 Consider getting more sleep! Too many late night posts.
+Graphing the time when notes have been added. ⚠️ Some night owls detected. More sleep please!
 
 ```
-🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░│ 21 (41%)
-🌅 06-11 │▓▓░░░░░░░░░░░░░░░░░░│  2 (4%)
+🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░│ 21 (40%)
+🌅 06-11 │▓▓▓░░░░░░░░░░░░░░░░░│  3 (6%)
 ☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  4 (8%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (47%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 24 (46%)
 ```
-📊 51 total comments • Peak: 18-23
+📊 52 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -62,13 +62,13 @@ Distribution of dev-note lengths across the cohort.
 
 ```
 🤏 < 50     │▓▓▓▓▓▓░░░░░░░░░░░░░░│  5 (10%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░│ 15 (29%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░│ 16 (31%)
 📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 18 (35%)
 📚 300-499  │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  6 (12%)
-🗣️ 500+     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  7 (14%)
+🗣️ 500+     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  7 (13%)
 ```
-✍️ 12,147 words written so far • avg 238 words/note • longest: 732 words
+✍️ 12,275 words written so far • avg 236 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 30, 2026 at 04:21 AM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 30, 2026 at 08:57 AM IST</span>
