@@ -18,7 +18,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 6 (Jul 27) | [Clocking it 😌🤏🤏🤏](https://github.com/open-making/web2026-dev-notes/issues/8) | 6 |
 | Day 7 (Jul 28) | [A room of one's own](https://github.com/open-making/web2026-dev-notes/issues/9) | 7 |
 | Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 7 |
-| Day 9 (Jul 30) | [Astro nots](https://github.com/open-making/web2026-dev-notes/issues/11) | 6 |
+| Day 9 (Jul 30) | [Astro nots](https://github.com/open-making/web2026-dev-notes/issues/11) | 7 |
 
 
 ## Distribution of night owls
@@ -26,12 +26,12 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 Graphing the time when notes have been added. ⚠️ Some night owls detected. More sleep please!
 
 ```
-🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░│ 23 (39%)
+🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░│ 24 (40%)
 🌅 06-11 │▓▓░░░░░░░░░░░░░░░░░░│  3 (5%)
 ☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  4 (7%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 29 (49%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 29 (48%)
 ```
-📊 59 total comments • Peak: 18-23
+📊 60 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -62,14 +62,14 @@ Notes are positive, negative, or neutral?
 Distribution of dev-note lengths across the cohort.
 
 ```
-🤏 < 50     │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  7 (12%)
+🤏 < 50     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  8 (13%)
 📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░│ 16 (27%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 21 (36%)
-📚 300-499  │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  8 (14%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 21 (35%)
+📚 300-499  │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  8 (13%)
 🗣️ 500+     │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  7 (12%)
 ```
-✍️ 13,799 words written so far • avg 234 words/note • longest: 732 words
+✍️ 13,840 words written so far • avg 231 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 31, 2026 at 12:14 AM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 31, 2026 at 12:18 AM IST</span>
