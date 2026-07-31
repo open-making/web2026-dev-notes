@@ -19,7 +19,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 7 (Jul 28) | [A room of one's own](https://github.com/open-making/web2026-dev-notes/issues/9) | 7 |
 | Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 7 |
 | Day 9 (Jul 30) | [Astro nots](https://github.com/open-making/web2026-dev-notes/issues/11) | 7 |
-| Day 10 (Jul 31) | [Lo-fi, High-fi, bheja fry](https://github.com/open-making/web2026-dev-notes/issues/12) | 0 |
+| Day 10 (Jul 31) | [Lo-fi, High-fi, bheja fry](https://github.com/open-making/web2026-dev-notes/issues/12) | 1 |
 
 
 ## Distribution of night owls
@@ -27,12 +27,12 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 Graphing the time when notes have been added. ⚠️ Some night owls detected. More sleep please!
 
 ```
-🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░│ 24 (40%)
+🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░│ 24 (39%)
 🌅 06-11 │▓▓░░░░░░░░░░░░░░░░░░│  3 (5%)
 ☀️ 12-17 │▓▓▓░░░░░░░░░░░░░░░░░│  4 (7%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 29 (48%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 30 (49%)
 ```
-📊 60 total comments • Peak: 18-23
+📊 61 total comments • Peak: 18-23
 
 ## How are we feeling?
 
@@ -41,11 +41,11 @@ Notes are positive, negative, or neutral?
 ```
 😊 Positive
 
-                          ┏━━━━━━┓                  ┏━━━━━━━━ 
+                                                           ┏━ 
+                          ┏━━━━━━┓                  ┏━━━━━━┛  
        ┏━━━━━┓            ┃      ┃                  ┃         
        ┃     ┗━━━━━━┓     ┃      ┗━━━━━┓      ┏━━━━━┛         
  ━━━━━━┛            ┃     ┃            ┃      ┃               
-                    ┃     ┃            ┃      ┃               
                     ┗━━━━━┛            ┃      ┃               
                                        ┃      ┃               
                                        ┃      ┃               
@@ -63,14 +63,14 @@ Notes are positive, negative, or neutral?
 Distribution of dev-note lengths across the cohort.
 
 ```
-🤏 < 50     │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  8 (13%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░│ 16 (27%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 21 (35%)
-📚 300-499  │▓▓▓▓▓▓▓▓░░░░░░░░░░░░│  8 (13%)
-🗣️ 500+     │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  7 (12%)
+🤏 < 50     │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  8 (13%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░│ 16 (26%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 22 (36%)
+📚 300-499  │▓▓▓▓▓▓▓░░░░░░░░░░░░░│  8 (13%)
+🗣️ 500+     │▓▓▓▓▓▓░░░░░░░░░░░░░░│  7 (11%)
 ```
-✍️ 13,840 words written so far • avg 231 words/note • longest: 732 words
+✍️ 14,018 words written so far • avg 230 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 31, 2026 at 06:07 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 31, 2026 at 11:38 PM IST</span>
