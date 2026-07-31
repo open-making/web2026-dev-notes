@@ -19,6 +19,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 7 (Jul 28) | [A room of one's own](https://github.com/open-making/web2026-dev-notes/issues/9) | 7 |
 | Day 8 (Jul 29) | [Scheming about Schemas](https://github.com/open-making/web2026-dev-notes/issues/10) | 7 |
 | Day 9 (Jul 30) | [Astro nots](https://github.com/open-making/web2026-dev-notes/issues/11) | 7 |
+| Day 10 (Jul 31) | [Lo-fi, High-fi, bheja fry](https://github.com/open-making/web2026-dev-notes/issues/12) | 0 |
 
 
 ## Distribution of night owls
@@ -40,17 +41,17 @@ Notes are positive, negative, or neutral?
 ```
 😊 Positive
 
-                              ┏━━━━━━┓                     ┏━ 
-       ┏━━━━━━━┓              ┃      ┃                     ┃  
-       ┃       ┗━━━━━━┓       ┃      ┗━━━━━━┓       ┏━━━━━━┛  
- ━━━━━━┛              ┃       ┃             ┃       ┃         
-                      ┃       ┃             ┃       ┃         
-                      ┗━━━━━━━┛             ┃       ┃         
-                                            ┃       ┃         
-                                            ┃       ┃         
-                                            ┗━━━━━━━┛         
-┬──────┬───────┬──────┬───────┬──────┬──────┬───────┬──────┬─▶
-1      2       3      4       5      6      7       8      9  
+                          ┏━━━━━━┓                  ┏━━━━━━━━ 
+       ┏━━━━━┓            ┃      ┃                  ┃         
+       ┃     ┗━━━━━━┓     ┃      ┗━━━━━┓      ┏━━━━━┛         
+ ━━━━━━┛            ┃     ┃            ┃      ┃               
+                    ┃     ┃            ┃      ┃               
+                    ┗━━━━━┛            ┃      ┃               
+                                       ┃      ┃               
+                                       ┃      ┃               
+                                       ┗━━━━━━┛               
+┬──────┬─────┬──────┬─────┬──────┬─────┬──────┬─────┬──────┬─▶
+1      2     3      4     5      6     7      8     9     10  
                               Day                              
 
 😕 Negative
@@ -72,4 +73,4 @@ Distribution of dev-note lengths across the cohort.
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 31, 2026 at 12:18 AM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Jul 31, 2026 at 06:06 PM IST</span>
