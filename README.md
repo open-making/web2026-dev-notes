@@ -24,6 +24,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 13 (Aug 5) | [[Project Week] Nine to Five](https://github.com/open-making/web2026-dev-notes/issues/14) | 5 |
 | Day 14 (Aug 6) | [[Project Week] Div and Let Div](https://github.com/open-making/web2026-dev-notes/issues/15) | 7 |
 | Day 15 (Aug 7) | [[Project Week] Getting Ship Done](https://github.com/open-making/web2026-dev-notes/issues/16) | 5 |
+| Day 16 (Aug 10) | [[Project Week] The end is in site](https://github.com/open-making/web2026-dev-notes/issues/17) | 0 |
 
 
 ## Distribution of night owls
@@ -45,17 +46,17 @@ Notes are positive, negative, or neutral?
 ```
 😊 Positive
 
-                 ┏━━━┓            ┏━━━┓                       
-    ┏━━━┓        ┃   ┃            ┃   ┃                       
-    ┃   ┗━━━━┓   ┃   ┗━━━┓    ┏━━━┛   ┃                       
- ━━━┛        ┃   ┃       ┃    ┃       ┃       ┏━━━━━━━━┓      
-             ┃   ┃       ┃    ┃       ┃       ┃        ┃   ┏━ 
-             ┗━━━┛       ┃    ┃       ┃       ┃        ┃   ┃  
-                         ┃    ┃       ┗━━━━━━━┛        ┃   ┃  
-                         ┃    ┃                        ┃   ┃  
-                         ┗━━━━┛                        ┗━━━┛  
-┬───┬───┬────┬───┬───┬───┬────┬───┬───┬───┬───┬────┬───┬───┬─▶
-1   2   3    4   5   6   7    8   9  10  11  12   13  14  15  
+                ┏━━━┓          ┏━━━┓                          
+    ┏━━━┓       ┃   ┃          ┃   ┃                          
+    ┃   ┗━━━┓   ┃   ┗━━━┓   ┏━━┛   ┃                          
+ ━━━┛       ┃   ┃       ┃   ┃      ┃       ┏━━━━━━━┓          
+            ┃   ┃       ┃   ┃      ┃       ┃       ┃   ┏━━━━━ 
+            ┗━━━┛       ┃   ┃      ┃       ┃       ┃   ┃      
+                        ┃   ┃      ┗━━━━━━━┛       ┃   ┃      
+                        ┃   ┃                      ┃   ┃      
+                        ┗━━━┛                      ┗━━━┛      
+┬───┬───┬───┬───┬───┬───┬───┬──┬───┬───┬───┬───┬───┬───┬───┬─▶
+1   2   3   4   5   6   7   8  9  10  11  12  13  14  15  16  
                               Day                              
 
 😕 Negative
@@ -77,4 +78,4 @@ Distribution of dev-note lengths across the cohort.
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Aug 8, 2026 at 03:55 AM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Aug 10, 2026 at 11:13 AM IST</span>
