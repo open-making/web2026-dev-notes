@@ -24,7 +24,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 13 (Aug 5) | [[Project Week] Nine to Five](https://github.com/open-making/web2026-dev-notes/issues/14) | 5 |
 | Day 14 (Aug 6) | [[Project Week] Div and Let Div](https://github.com/open-making/web2026-dev-notes/issues/15) | 7 |
 | Day 15 (Aug 7) | [[Project Week] Getting Ship Done](https://github.com/open-making/web2026-dev-notes/issues/16) | 5 |
-| Day 16 (Aug 10) | [[Project Week] The end is in site](https://github.com/open-making/web2026-dev-notes/issues/17) | 1 |
+| Day 16 (Aug 10) | [[Project Week] The end is in site](https://github.com/open-making/web2026-dev-notes/issues/17) | 2 |
 
 
 ## Distribution of night owls
@@ -32,12 +32,12 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 Graphing the time when notes have been added. 😴 Consider getting more sleep! Too many late night posts.
 
 ```
-🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 46 (51%)
+🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 47 (51%)
 🌅 06-11 │▓▓▓░░░░░░░░░░░░░░░░░│  6 (7%)
 ☀️ 12-17 │▓▓░░░░░░░░░░░░░░░░░░│  5 (5%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░│ 34 (37%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░│ 34 (37%)
 ```
-📊 91 total comments • Peak: 00-05
+📊 92 total comments • Peak: 00-05
 
 ## How are we feeling?
 
@@ -46,15 +46,15 @@ Notes are positive, negative, or neutral?
 ```
 😊 Positive
 
-                ┏━━━┓          ┏━━━┓                          
-    ┏━━━┓       ┃   ┃          ┃   ┃                          
-    ┃   ┗━━━┓   ┃   ┗━━━┓   ┏━━┛   ┃                          
- ━━━┛       ┃   ┃       ┃   ┃      ┃       ┏━━━━━━━┓          
-            ┃   ┃       ┃   ┃      ┃       ┃       ┃   ┏━━━┓  
-            ┗━━━┛       ┃   ┃      ┃       ┃       ┃   ┃   ┃  
-                        ┃   ┃      ┗━━━━━━━┛       ┃   ┃   ┃  
-                        ┃   ┃                      ┃   ┃   ┃  
-                        ┗━━━┛                      ┗━━━┛   ┃  
+                                                           ┏━ 
+                ┏━━━┓          ┏━━━┓                       ┃  
+                ┃   ┃          ┃   ┃                       ┃  
+    ┏━━━━━━━┓   ┃   ┗━━━┓   ┏━━┛   ┃                       ┃  
+ ━━━┛       ┃   ┃       ┃   ┃      ┃       ┏━━━━━━━┓       ┃  
+            ┗━━━┛       ┃   ┃      ┃       ┃       ┃   ┏━━━┛  
+                        ┃   ┃      ┗━━━━━━━┛       ┃   ┃      
+                        ┃   ┃                      ┃   ┃      
+                        ┗━━━┛                      ┗━━━┛      
 ┬───┬───┬───┬───┬───┬───┬───┬──┬───┬───┬───┬───┬───┬───┬───┬─▶
 1   2   3   4   5   6   7   8  9  10  11  12  13  14  15  16  
                               Day                              
@@ -70,12 +70,12 @@ Distribution of dev-note lengths across the cohort.
 ```
 🤏 < 50     │▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░│ 18 (20%)
 📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░│ 21 (23%)
-📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 30 (33%)
+📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 31 (34%)
 📚 300-499  │▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░│ 15 (16%)
 🗣️ 500+     │▓▓▓▓▓░░░░░░░░░░░░░░░│  7 (8%)
 ```
-✍️ 19,196 words written so far • avg 211 words/note • longest: 732 words
+✍️ 19,366 words written so far • avg 211 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Aug 11, 2026 at 12:43 AM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Aug 11, 2026 at 01:41 AM IST</span>
