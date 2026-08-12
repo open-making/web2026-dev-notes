@@ -25,7 +25,7 @@ This repo documents our learning journey for the [web2026](https://teaching.aman
 | Day 14 (Aug 6) | [[Project Week] Div and Let Div](https://github.com/open-making/web2026-dev-notes/issues/15) | 7 |
 | Day 15 (Aug 7) | [[Project Week] Getting Ship Done](https://github.com/open-making/web2026-dev-notes/issues/16) | 5 |
 | Day 16 (Aug 10) | [[Project Week] The end is in site](https://github.com/open-making/web2026-dev-notes/issues/17) | 5 |
-| Day 18 (Aug 12) | [So Long, and Thanks for All the Fish](https://github.com/open-making/web2026-dev-notes/issues/18) | 2 |
+| Day 18 (Aug 12) | [So Long, and Thanks for All the Fish](https://github.com/open-making/web2026-dev-notes/issues/18) | 3 |
 
 
 ## Distribution of night owls
@@ -36,9 +36,9 @@ Graphing the time when notes have been added. 😴 Consider getting more sleep! 
 🌙 00-05 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 48 (49%)
 🌅 06-11 │▓▓▓░░░░░░░░░░░░░░░░░│  6 (6%)
 ☀️ 12-17 │▓▓░░░░░░░░░░░░░░░░░░│  5 (5%)
-🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░│ 38 (39%)
+🌆 18-23 │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░│ 39 (40%)
 ```
-📊 97 total comments • Peak: 00-05
+📊 98 total comments • Peak: 00-05
 
 ## How are we feeling?
 
@@ -69,14 +69,14 @@ Notes are positive, negative, or neutral?
 Distribution of dev-note lengths across the cohort.
 
 ```
-🤏 < 50     │▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░│ 18 (19%)
-📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░│ 23 (24%)
+🤏 < 50     │▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░│ 18 (18%)
+📝 50-149   │▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░│ 23 (23%)
 📄 150-299  │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│ 32 (33%)
-📚 300-499  │▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░│ 17 (18%)
+📚 300-499  │▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░│ 18 (18%)
 🗣️ 500+     │▓▓▓▓░░░░░░░░░░░░░░░░│  7 (7%)
 ```
-✍️ 20,502 words written so far • avg 211 words/note • longest: 732 words
+✍️ 20,837 words written so far • avg 213 words/note • longest: 732 words
 
 ---
 
-<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Aug 12, 2026 at 11:54 PM IST</span>
+<span style="font-size: 12px;">This README is automatically updated when new comments are added to day-wise journal entries. It was updated on Aug 13, 2026 at 12:00 AM IST</span>
